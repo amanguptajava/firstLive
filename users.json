@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Tudor",
+    "last_name": "Gonneau",
+    "email": "tgonneau0@ebay.co.uk",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Dorey",
+    "last_name": "Venning",
+    "email": "dvenning1@businesswire.com",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Tad",
+    "last_name": "Ruste",
+    "email": "truste2@umn.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Tedi",
+    "last_name": "Keese",
+    "email": "tkeese3@cbsnews.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Bobbette",
+    "last_name": "Bream",
+    "email": "bbream4@netlog.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Lynea",
+    "last_name": "Gostage",
+    "email": "lgostage5@ask.com",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Luca",
+    "last_name": "Wynes",
+    "email": "lwynes6@hatena.ne.jp",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Ramona",
+    "last_name": "MacGillavery",
+    "email": "rmacgillavery7@tmall.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Glennie",
+    "last_name": "Ruprich",
+    "email": "gruprich8@multiply.com",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Myrta",
+    "last_name": "Eichmann",
+    "email": "meichmann9@gov.uk",
+    "gender": "Genderqueer"
+  }
+]
